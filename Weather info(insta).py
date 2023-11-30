@@ -1,0 +1,12 @@
+import time
+location = input('ENTER THE NAME OF YOUR CITY : ')
+time.sleep(1.5)
+print('Prossesing.....')
+time.sleep(1.5)
+print('Getting info.....')
+time.sleep(1.5)
+print('Prossesing.....')
+time.sleep(1.5)
+print('Just a second.....')
+time.sleep(1.5)
+print("\n  I DON'T KNOW, JUST LOOK OUT-SIDE.")
